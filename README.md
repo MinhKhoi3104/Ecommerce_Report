@@ -1,5 +1,5 @@
 # Ecommerce_Report
-Use Excel, PowerBI, Dax Code
+Use Excel, PowerBI, PowerQuery, Dax Code
 # Overview
 There is a promotion program of 30% off total bill, maximum 20k. There are some customers who are affiliated with the seller to abuse this program. The Transaction_Data.csv file contains customer transaction data.
 Make a report to answer some information:
